@@ -11,7 +11,7 @@
 
 $Servers = @(
 
-#ServerNamesHere
+#AddServerNamesHere
 
 )
  
